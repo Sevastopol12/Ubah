@@ -1,0 +1,62 @@
+[
+  {
+    "date": "11/8/2024 12:00:00 AM",
+    "tripID": "b9NiDRm8KTXm",
+    "pickup": "\u0110\u1EA1i h\u1ECDc Kinh t\u1EBF TP.HCM - C\u01A1 s\u1EDF A, Nguy\u1EC5n \u0110\u00ECnh Chi\u1EC3u, Ph\u01B0\u1EDDng V\u00F5 Th\u1ECB S\u00E1u, Qu\u1EADn 3, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 71006, Vi\u1EC7t Nam",
+    "dropoff": "\u0110\u1EA1i h\u1ECDc Kinh t\u1EBF TP.HCM - c\u01A1 s\u1EDF B, 279, Nguy\u1EC5n Tri Ph\u01B0\u01A1ng, Ph\u01B0\u1EDDng 5, Qu\u1EADn 10, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 72415, Vi\u1EC7t Nam",
+    "fare": "1.39",
+    "distance": "3.82",
+    "riderID": "1",
+    "driverID": "182"
+  },
+  {
+    "date": "11/8/2024 12:00:00 AM",
+    "tripID": "IBSJwy0mI3Mz",
+    "pickup": "Nguy\u1EC5n \u0110\u00ECnh Chi\u1EC3u, Ph\u01B0\u1EDDng V\u00F5 Th\u1ECB S\u00E1u, Qu\u1EADn 3, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 71006, Vi\u1EC7t Nam",
+    "dropoff": "\u0110\u1EA1i h\u1ECDc Kinh t\u1EBF TP.HCM - c\u01A1 s\u1EDF B, 279, Nguy\u1EC5n Tri Ph\u01B0\u01A1ng, Ph\u01B0\u1EDDng 5, Qu\u1EADn 10, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 72415, Vi\u1EC7t Nam",
+    "fare": "1.76",
+    "distance": "3.79",
+    "riderID": "4",
+    "driverID": "113"
+  },
+  {
+    "date": "11/8/2024 12:00:00 AM",
+    "tripID": "IBSJwy0mI3Mz",
+    "pickup": "Nguy\u1EC5n \u0110\u00ECnh Chi\u1EC3u, Ph\u01B0\u1EDDng V\u00F5 Th\u1ECB S\u00E1u, Qu\u1EADn 3, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 71006, Vi\u1EC7t Nam",
+    "dropoff": "\u0110\u1EA1i h\u1ECDc Kinh t\u1EBF TP.HCM - c\u01A1 s\u1EDF B, 279, Nguy\u1EC5n Tri Ph\u01B0\u01A1ng, Ph\u01B0\u1EDDng 5, Qu\u1EADn 10, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 72415, Vi\u1EC7t Nam",
+    "fare": "1.76",
+    "distance": "3.79",
+    "riderID": "4",
+    "driverID": "167"
+  },
+  {
+    "date": "11/8/2024 12:00:00 AM",
+    "tripID": "XbvLy4giS4Ri",
+    "pickup": "\u0110\u1EA1i h\u1ECDc Kinh t\u1EBF TP.HCM - C\u01A1 s\u1EDF A, Nguy\u1EC5n \u0110\u00ECnh Chi\u1EC3u, Ph\u01B0\u1EDDng V\u00F5 Th\u1ECB S\u00E1u, Qu\u1EADn 3, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 71006, Vi\u1EC7t Nam",
+    "dropoff": "\u0110\u1EA1i h\u1ECDc Kinh t\u1EBF TP.HCM - c\u01A1 s\u1EDF B, 279, Nguy\u1EC5n Tri Ph\u01B0\u01A1ng, Ph\u01B0\u1EDDng 5, Qu\u1EADn 10, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 72415, Vi\u1EC7t Nam",
+    "fare": "1.97",
+    "distance": "3.82",
+    "riderID": "1",
+    "driverID": "105"
+  },
+  {
+    "date": "11/8/2024 12:00:00 AM",
+    "tripID": "OgFCw09cqdgI",
+    "pickup": "C\u00E0 Ph\u00EA Laha - B\u00E0u C\u00E1t, \u0110\u01B0\u1EDDng s\u1ED1 5, Khu B\u00E0u C\u00E1t 2, Ph\u01B0\u1EDDng 10, Qu\u1EADn T\u00E2n B\u00ECnh, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 72012, Vi\u1EC7t Nam",
+    "dropoff": "Nguy\u1EC5n \u0110\u00ECnh Chi\u1EC3u, Ph\u01B0\u1EDDng V\u00F5 Th\u1ECB S\u00E1u, Qu\u1EADn 3, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 71006, Vi\u1EC7t Nam",
+    "fare": "2.2",
+    "distance": "5.39",
+    "riderID": "1",
+    "driverID": "196"
+  },
+  {
+    "date": "11/8/2024 12:00:00 AM",
+    "tripID": "Vks4VTDfjNRC",
+    "pickup": "\u0110\u1EA1i h\u1ECDc Kinh t\u1EBF TP.HCM - C\u01A1 s\u1EDF A, Nguy\u1EC5n \u0110\u00ECnh Chi\u1EC3u, Ph\u01B0\u1EDDng V\u00F5 Th\u1ECB S\u00E1u, Qu\u1EADn 3, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 71006, Vi\u1EC7t Nam",
+    "dropoff": "Nguy\u1EC5n \u0110\u00ECnh Chi\u1EC3u, Ph\u01B0\u1EDDng V\u00F5 Th\u1ECB S\u00E1u, Qu\u1EADn 3, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 71006, Vi\u1EC7t Nam",
+    "fare": "0.46",
+    "distance": "0.05",
+    "riderID": "1",
+    "driverID": "193"
+  }
+]
