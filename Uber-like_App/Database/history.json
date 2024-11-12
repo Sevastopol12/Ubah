@@ -1,0 +1,22 @@
+[
+  {
+    "date": "11/10/2024 12:00:00 AM",
+    "tripID": "b9CXy2ax40Vx",
+    "pickup": "H\u1EBBm 262 L\u0169y B\u00E1n B\u00EDch, Ph\u01B0\u1EDDng H\u00F2a Th\u1EA1nh, Qu\u1EADn T\u00E2n Ph\u00FA, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 72031, Vi\u1EC7t Nam",
+    "dropoff": "Nguy\u1EC5n \u0110\u00ECnh Chi\u1EC3u, Ph\u01B0\u1EDDng \u0110a Kao, Qu\u1EADn 1, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 72210, Vi\u1EC7t Nam",
+    "fare": "2.78",
+    "distance": "7.75",
+    "riderID": "253",
+    "driverID": "109"
+  },
+  {
+    "date": "11/10/2024 12:00:00 AM",
+    "tripID": "BJViwojB2nPv",
+    "pickup": "H\u1EBBm 262 L\u0169y B\u00E1n B\u00EDch, Ph\u01B0\u1EDDng H\u00F2a Th\u1EA1nh, Qu\u1EADn T\u00E2n Ph\u00FA, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 72012, Vi\u1EC7t Nam",
+    "dropoff": "\u0110\u1EA1i h\u1ECDc Kinh t\u1EBF TP.HCM - c\u01A1 s\u1EDF B, 279, Nguy\u1EC5n Tri Ph\u01B0\u01A1ng, Ph\u01B0\u1EDDng 5, Qu\u1EADn 10, Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh, 72415, Vi\u1EC7t Nam",
+    "fare": "1.97",
+    "distance": "3.91",
+    "riderID": "253",
+    "driverID": "189"
+  }
+]
